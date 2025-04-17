@@ -6,6 +6,10 @@ Hi, I'm Gabriel Penteado
 - 📚 I'm always learning, it's the best part of the journey
 - 🎮 Coding is my main quest. Side quests include fixing my own bugs
 
+  -
+  -
+  Currently leveling up my backend skills on [Boot.dev](https://www.boot.dev/u/penteadogabriel)
+
 <!--
 **Gabriel-Penteadoo/Gabriel-Penteadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
