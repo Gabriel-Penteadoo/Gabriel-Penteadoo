@@ -3,8 +3,8 @@ Hi, I'm Gabriel Penteado
 - 🎓 I'm a student aspiring to be a backend developer  
 - <img src="https://slackmojis.com/emojis/64616-java3/download" width="20"/> I primarily work in Java and C#  
 - <img src="https://slackmojis.com/emojis/291-golang/download" width="20"/> I'm currently learning Go as a hobby    
-- 📚 I'm always learning, it's the best part of the journey
-- 🎮 Coding is my main quest. Side quests include fixing my own bugs
+- 📚 I'm always learning, it's the best part of this journey
+- 🎮 Coding is my main quest. Side quests include fixing my own bugs and Neovim
 
   -
   -
