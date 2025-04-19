@@ -4,7 +4,6 @@ Hi, I'm Gabriel Penteado
 - <img src="https://slackmojis.com/emojis/64616-java3/download" width="20"/> I primarily work in Java and C#  
 - <img src="https://slackmojis.com/emojis/291-golang/download" width="20"/> I'm currently learning Go as a hobby    
 - 📚 I'm always learning, it's the best part of this journey
-- 🎮 Coding is my main quest. Side quests include fixing my Neovim setup
 
   -
   -
