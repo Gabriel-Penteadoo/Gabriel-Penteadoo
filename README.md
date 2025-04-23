@@ -6,7 +6,7 @@ Hi, I'm Gabriel Penteado
 
   -
   -
-  Currently leveling up my backend skills on [Boot.dev](https://www.boot.dev/u/penteadogabriel)
+  I'm also leveling up my backend skills on [Boot.dev](https://www.boot.dev/u/penteadogabriel)
 
 <!--
 **Gabriel-Penteadoo/Gabriel-Penteadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
