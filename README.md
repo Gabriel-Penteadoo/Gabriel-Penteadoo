@@ -2,7 +2,7 @@ Hi, I'm Gabriel Penteado
 
 - 🎓 I'm a student aspiring to be a backend developer  
 - <img src="https://slackmojis.com/emojis/64616-java3/download" width="20"/> I primarily work in Java and C#, although i enjoy Python aswell
-- <img src="https://slackmojis.com/emojis/291-golang/download" width="20"/> I'm currently learning Go and Rails as a hobby <img src="https://slackmojis.com/emojis/4415-ruby_on_rails/download" width="20"/>
+- <img src="https://slackmojis.com/emojis/291-golang/download" width="20"/> I'm currently learning Go as a hobby
 
   -
   -
